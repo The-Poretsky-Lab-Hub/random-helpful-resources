@@ -1,5 +1,5 @@
 # Random Helpful Resources
-##This is a place to list resources/links of any type that might be helpful to current and future lab members! 
+## This is a place to list resources/links of any type that might be helpful to current and future lab members! 
 
 ---
 ## Statistics and data analysis
